@@ -20,4 +20,3 @@ This repository contains design-related image assets for our web app project.
 3. Commit and push
 4. Access images using GitHub raw URLs (if needed temporarily)
 
-> Note: This repo is not meant for user-uploaded images.
